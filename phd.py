@@ -5,9 +5,9 @@ from concurrent.futures import ThreadPoolExecutor
 
 print("""\033[1m
     ____  __    ____ 
-   / __ \/ /_  / __ \  | PhD Checker
-  / /_/ / __ \/ / / /  | Pizza hut delivery checker
- / ____/ / / / /_/ /   | Coded by Xractz - \033[31;2mIndo\033[39;2mSec\033[0;1m
+   / __ \/ /_  / __ \  | PHD_Checker
+  / /_/ / __ \/ / / /  | Pizza Hut Delivery Checker
+ / ____/ / / / /_/ /   | Support by Mr.54nDr0X404 - \033[0m
 /_/   /_/ /_/_____/    | Format email|password\033[0m
 """)
 
