@@ -6,7 +6,7 @@ Tools PIZZA dengan Bahasa Uler*
 ```
 $pip install requests 
 $git clone https://github.com/muhikhsanm404/PHDchecker
-$cd 
+$cd PHDChecker
 $python pizza.py
 ```
 Support by PHD
